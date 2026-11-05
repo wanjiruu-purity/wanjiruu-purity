@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Purity Wanjiru 👋
+Software developer and QA & Automation Lead at Jarida in Nairobi, Kenya. I build web, mobile and on-device AI software, and I set up the pipelines that test and ship it.
 
-<!--
-**wanjiruu-purity/wanjiruu-purity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working on
+🪿 Goose In A Pond: a privacy-first agentic AI home assistant that runs fully on-device, built in Rust on Block's Goose framework
+⚙️ GitHub Actions CI/CD pipelines and test automation (cargo test, Vitest, Playwright)
+Recent client work
+🌐 Uzima Fertility Hub: live website for a fertility clinic in Nairobi and Kisii (code), built with React, Vite and Tailwind
+Tech I use
+Languages: Rust · JavaScript · Python · Dart · PHP · SQL Web: React · Vite · Tailwind CSS · WordPress Mobile: Flutter · Firebase QA & DevOps: GitHub Actions · Git · Linux Security: Cisco Ethical Hacker · Fortinet Certified Fundamentals
 
-Here are some ideas to get you started:
+Find me
+Portfolio · LinkedIn · wanjirupurity203@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
